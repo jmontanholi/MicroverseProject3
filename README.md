@@ -6,7 +6,7 @@
 
 # Project Screenshot
 
-> 
+> https://imgur.com/rwwW0xv
 
 ## Built With
 
@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-To see the live Demo of the project click [here](https://jmontanholi.github.io/ProjectTwoMicroverse/)
+To see the live Demo of the project click [here](https://jmontanholi.github.io/MicroverseProject3/)
 
 ## Getting started
 
