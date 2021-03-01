@@ -1,5 +1,6 @@
-@media (min-width: 576px) { 
 
+@media (min-width: 576px) { 
+  
 }
 
 /* Medium devices (tablets, 768px and up)*/
@@ -12,6 +13,19 @@
   .social-links {
     text-align: right;
   }
+
+  .person-header {
+    display: none;
+  }
+
+  .login-header {
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+
 }
 
 /* Large devices (desktops, 992px and up)*/
