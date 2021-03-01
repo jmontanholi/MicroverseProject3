@@ -4,7 +4,10 @@
 
 /* Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) { 
-    
+  .ft-txt {
+    border-right: 1px solid rgba(136, 136, 136, 0.418);
+    padding-right: 7px;
+  }
 }
 
 /* Large devices (desktops, 992px and up)*/
