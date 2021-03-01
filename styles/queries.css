@@ -1,10 +1,9 @@
+@media (min-width: 576px) {
 
-@media (min-width: 576px) { 
-  
 }
 
 /* Medium devices (tablets, 768px and up)*/
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
   .ft-txt {
     border-right: 1px solid rgba(136, 136, 136, 0.418);
     padding-right: 7px;
@@ -25,7 +24,6 @@
     text-decoration: none;
     margin-right: 5px;
   }
-
 }
 
 /* Large devices (desktops, 992px and up)*/
@@ -48,17 +46,19 @@
     padding: 0 10px 0 10px;
   }
 
+  #hd-3,
   #hd-2 {
     display: block;
   }
-
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
-    .hd-2-links {
-        font-size: 18px;
-      }
+  .hd-2-links,
+  .hd-3-title,
+  .hd-3-links {
+    font-size: 18px;
+  }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
