@@ -38,8 +38,9 @@
     display: block;
   }
 
-  .login-header {
+  #login-header {
     font-size: 20px;
+    color: white;
   }
   
   .header-btn {
