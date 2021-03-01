@@ -43,9 +43,8 @@
   }
   
   .header-btn {
-    font-size: 20px;
+    font-size: 1rem;
     padding: 0 10px 0 10px;
-    margin: 0 15px;
   }
 
 }
