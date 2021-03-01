@@ -93,3 +93,13 @@
   text-decoration: none;
   font-weight: bold;
 }
+
+.hd-3-title:hover {
+  color: black;
+  cursor: text;
+}
+
+.hd-2-links:hover,
+.hd-3-links:hover{
+  color: red;
+}
