@@ -1,0 +1,16 @@
+.bg-header {
+  background-color: red;
+}
+
+.header-btn {
+  font-weight: bold;
+  font-size: 0.8rem;
+  background-color: yellow;
+  border-style: none;
+  border-radius: 25px;
+}
+
+.right-header a {
+  color: #ffffff9d;
+  font-size: 1.5rem;
+}

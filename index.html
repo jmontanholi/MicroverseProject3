@@ -4,23 +4,26 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/queries.css">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css">
 
     <title>Newsweek - News, Analysis, Politics, Business, Technology</title>
   </head>
   <body>
       <!-- HEADER -->
     <header class="container-fluid">
-        <div class="row">
-            <div>
-                <img class="" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Newsweek_Logo.svg" width="180" style="border: 1px solid red;"alt="Logo">
+        <div class="row bg-header py-2 d-flex justify-content-between">
+            <div class="col-6 col-md d-flex justify-content-start p-0">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Newsweek_Logo.svg" width="150" alt="Logo">
             </div>
-            <div>
-                <i></i>
-                <button>SUBSCRIBE ></button>
-                <button>bars</button>
+            <div class="right-header col-6 col-sm-3 col-md-3 d-flex justify-content-around align-items-center">
+                <a href=""><i class="bi bi-person-fill"></i></a>
+                <input class="header-btn" type="button" value="SUBSCRIBE">
+                <a href=""><i class="bi bi-list"></i></a>
             </div>
         </div>
     </header> 
