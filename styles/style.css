@@ -43,3 +43,7 @@
 .login-header {
   display: none;
 }
+
+.header-desktop {
+  display: none;
+}

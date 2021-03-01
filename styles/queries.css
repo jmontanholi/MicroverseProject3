@@ -29,7 +29,24 @@
 }
 
 /* Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
+  .header-mobile {
+    display: none;
+  }
+
+  .header-desktop {
+    display: block;
+  }
+
+  .login-header {
+    font-size: 20px;
+  }
+  
+  .header-btn {
+    font-size: 20px;
+    padding: 0 10px 0 10px;
+    margin: 0 15px;
+  }
 
 }
 
