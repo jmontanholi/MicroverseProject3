@@ -2,6 +2,14 @@
   background-color: red;
 }
 
+.header-desktop {
+  display: none;
+}
+
+#hd-2 {
+  display: none;
+}
+
 .header-btn {
   font-weight: bold;
   font-size: 0.8rem;
@@ -13,6 +21,14 @@
 .right-header a {
   color: #ffffff9d;
   font-size: 1.5rem;
+}
+
+.login-header {
+  display: none;
+}
+
+.login-header:hover {
+  color: white;
 }
 
 .ft-title {
@@ -38,4 +54,27 @@
 .social {
   color: grey;
   font-size: 20px;
+}
+
+.nav-2-div {
+  border-bottom: 1px solid rgba(85, 85, 85, 0.336);
+}
+
+.nav-2-div input {
+  border: none;
+  width: 70px;
+}
+
+.nav-2-div i {
+  font-size: 20px;
+}
+
+.hd-2-links {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+  margin: 2px;
+  padding-right: 5px;
+  border-right: 1px solid rgba(85, 85, 85, 0.336);
 }

@@ -47,14 +47,28 @@
     padding: 0 10px 0 10px;
   }
 
+  #hd-2 {
+    display: block;
+  }
+
 }
 
 /* X-Large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {
-
+    .hd-2-links {
+        font-size: 18px;
+      }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up)*/
 @media (min-width: 1400px) { 
-
+  .hd-2-links {
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 5px 8px 5px 5px;
+  padding-right: 10px;
+  border-right: 1px solid rgba(85, 85, 85, 0.336);
+  }
 }
