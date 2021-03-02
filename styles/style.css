@@ -109,3 +109,19 @@
 .hd-3-links:hover {
   color: red;
 }
+
+.background {
+  background-color: #f4f5f6;
+}
+
+.versus-txt {
+  font-size: 13px;
+}
+
+.hovertxt {
+  text-decoration: none;
+}
+
+.hovertxt:hover {
+  text-decoration: underline red;
+}
