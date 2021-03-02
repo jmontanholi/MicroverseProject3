@@ -20,6 +20,11 @@
     text-decoration: none;
     margin-right: 5px;
   }
+
+  .w-50-md {
+    width: 50%;
+    margin: auto;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -45,6 +50,10 @@
   #hd-3,
   #hd-2 {
     display: block;
+  }
+
+  .w-50-md {
+    width: 100%;
   }
 }
 
