@@ -117,3 +117,11 @@
 .versus-txt {
   font-size: 13px;
 }
+
+.hovertxt {
+  text-decoration: none;
+}
+
+.hovertxt:hover {
+  text-decoration: underline red;
+}
