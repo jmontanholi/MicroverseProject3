@@ -6,7 +6,7 @@
 
 # Project Screenshot
 
-> https://imgur.com/rwwW0xv
+> ![screenshot](images/screenshot.png)
 
 ## Built With
 
