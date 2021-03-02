@@ -1,0 +1,96 @@
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+  .ft-txt {
+    border-right: 1px solid rgba(136, 136, 136, 0.418);
+    padding-right: 7px;
+  }
+
+  .social-links {
+    text-align: right;
+  }
+
+  .person-header {
+    display: none;
+  }
+
+  .login-header {
+    display: block;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 5px;
+  }
+
+  .w-50-md {
+    width: 50%;
+    margin: auto;
+  }
+
+  .versus-txt {
+    font-size: 22px;
+  }
+
+  .versus-img {
+    text-align: end;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .header-mobile {
+    display: none;
+  }
+
+  .header-desktop {
+    display: block;
+  }
+
+  #login-header {
+    font-size: 20px;
+    color: white;
+  }
+
+  .header-btn {
+    font-size: 1rem;
+    padding: 0 10px 0 10px;
+  }
+
+  #hd-3,
+  #hd-2 {
+    display: block;
+  }
+
+  .w-50-md {
+    width: 100%;
+  }
+
+  .versus-txt {
+    font-size: 13px;
+  }
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .hd-2-links,
+  .hd-3-title,
+  .hd-3-links {
+    font-size: 18px;
+  }
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+  .hd-2-links {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 5px 8px 5px 5px;
+    padding-right: 10px;
+    border-right: 1px solid rgba(85, 85, 85, 0.336);
+  }
+
+  .versus-txt {
+    font-size: 16px;
+  }
+}

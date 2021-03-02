@@ -1,12 +1,12 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project 2: Building with Responsive Design - Milestone 1
+# Project 3: Building with Bootstrap - Milestone 1
 
-> In this project we are meant to make a responsive website based on this website: https://perma.cc/M5ZV-Q2D6
+> In this project we are meant to make a website with Bootstrap based on this website: https://web.archive.org/web/20210120125445/https://www.newsweek.com/
 
 # Project Screenshot
 
-> https://i.imgur.com/m0sUTcx.png
+> ![screenshot](images/screenshot.png)
 
 ## Built With
 
@@ -14,10 +14,11 @@
 - CSS3
 - Git and GitHub
 - VScode
+- Bootstrap
 
 ## Live Demo
 
-To see the live Demo of the project click [here](https://jmontanholi.github.io/ProjectTwoMicroverse/)
+To see the live Demo of the project click [here](https://jmontanholi.github.io/MicroverseProject3/)
 
 ## Getting started
 
@@ -31,7 +32,7 @@ To see the live Demo of the project click [here](https://jmontanholi.github.io/P
 
 ### Steps to follow
 
-- Clone the repository to your locaL machine.
+- Clone the repository to your local machine.
 
 - Open the index.html file with the browser of your preference.
 
@@ -43,17 +44,17 @@ To see the live Demo of the project click [here](https://jmontanholi.github.io/P
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
-👤 **Marco Parra**
+👤 **Tiago Rahal Aires**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@tiagorahal](https://github.com/tiagorahal)
+- Twitter: [@RahalAires](https://twitter.com/RahalAires)
+- LinkedIn: [Tiago Rahal Aires](https://linkedin.com/tiagorahal)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/jmontanholi/ProjectTwoMicroverse/issues).
+Feel free to check the [issues page](https://github.com/jmontanholi/MicroverseProject3/issues).
 
 ## Show your support
 
@@ -61,4 +62,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- The original [website](https://thenextweb.com/)
+- The original [website](https://web.archive.org/web/20210120125445/https://www.newsweek.com/)
