@@ -147,3 +147,12 @@
   display: flex;
   flex-direction: column;
 }
+
+.font-section {
+  font-size: 20px;
+}
+
+.font-section-img {
+  font-size: 12px;
+}
+

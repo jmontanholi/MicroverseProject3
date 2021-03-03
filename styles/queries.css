@@ -33,6 +33,10 @@
   .versus-img {
     text-align: end;
   }
+
+  .font-section {
+    font-size: 15px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
