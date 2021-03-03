@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project 3: Building with Bootstrap - Milestone 1
+# Project 3: Building with Bootstrap - Milestone 3
 
 > In this project we are meant to make a website with Bootstrap based on this website: https://web.archive.org/web/20210120125445/https://www.newsweek.com/
 
