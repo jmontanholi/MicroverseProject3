@@ -139,8 +139,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 150px;
-  width: 500px;
+  width: 100px;
+  height: 100px;
 }
 
 .newsletter-flex {
@@ -154,5 +154,9 @@
 
 .font-section-img {
   font-size: 12px;
+}
+
+.align-form {
+  align-items: center;
 }
 

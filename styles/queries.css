@@ -37,6 +37,10 @@
   .font-section {
     font-size: 15px;
   }
+
+  .newsletter {
+    height: 270px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -70,6 +74,18 @@
 
   .versus-txt {
     font-size: 13px;
+  }
+
+  .newsletter {
+    height: 355px;
+  }
+
+  .form-newsletter {
+    width: 100px;
+  }
+
+  .align-form {
+    align-items: start;
   }
 }
 
