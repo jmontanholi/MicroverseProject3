@@ -127,11 +127,11 @@
 }
 
 .hoverbg {
-  background-color: rgba(218, 216, 216, 0.507)
+  background-color: rgba(218, 216, 216, 0.507);
 }
 
 .hoverbg:hover {
-  background-color: rgba(148, 148, 148, 0.507)
+  background-color: rgba(148, 148, 148, 0.507);
 }
 
 .newsletter {
@@ -159,4 +159,3 @@
 .align-form {
   align-items: center;
 }
-
