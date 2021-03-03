@@ -6,7 +6,7 @@
 
 # Project Screenshot
 
-> ![screenshot](images/screenshot.png)
+> ![screenshot](images/print.png)
 
 ## Built With
 
