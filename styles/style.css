@@ -125,3 +125,11 @@
 .hovertxt:hover {
   text-decoration: underline red;
 }
+
+.hoverbg {
+  background-color: rgba(218, 216, 216, 0.507)
+}
+
+.hoverbg:hover {
+  background-color: rgba(148, 148, 148, 0.507)
+}
