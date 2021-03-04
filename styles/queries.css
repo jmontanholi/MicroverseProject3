@@ -41,6 +41,10 @@
   .newsletter {
     height: 270px;
   }
+
+  .bottom-form-txt {
+    font-size: 20px;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -87,6 +91,10 @@
   .align-form {
     align-items: start;
   }
+
+  .bottom-form-txt {
+    font-size: 15px;
+  }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
@@ -112,5 +120,13 @@
 
   .versus-txt {
     font-size: 16px;
+  }
+
+  .newsletter {
+    height: 418px;
+  }
+
+  .bottom-form-txt {
+    font-size: 23px;
   }
 }
