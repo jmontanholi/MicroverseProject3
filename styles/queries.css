@@ -45,6 +45,15 @@
   .bottom-form-txt {
     font-size: 20px;
   }
+
+  .relative-div { 
+    position: static;
+  }
+  
+  .absolute-txt {
+    position: static;
+  }
+
 }
 
 /* Large devices (desktops, 992px and up) */
