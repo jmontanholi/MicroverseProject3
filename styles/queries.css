@@ -33,6 +33,26 @@
   .versus-img {
     text-align: end;
   }
+
+  .font-section {
+    font-size: 15px;
+  }
+
+  .newsletter {
+    height: 270px;
+  }
+
+  .bottom-form-txt {
+    font-size: 20px;
+  }
+
+  .relative-div {
+    position: static;
+  }
+
+  .absolute-txt {
+    position: static;
+  }
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -67,6 +87,30 @@
   .versus-txt {
     font-size: 13px;
   }
+
+  .newsletter {
+    height: 355px;
+  }
+
+  .form-newsletter {
+    width: 100px;
+  }
+
+  .align-form {
+    align-items: start;
+  }
+
+  .bottom-form-txt {
+    font-size: 15px;
+  }
+
+  .column-div {
+    flex-direction: column;
+  }
+
+  .email-input {
+    margin-bottom: 10px;
+  }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
@@ -92,5 +136,13 @@
 
   .versus-txt {
     font-size: 16px;
+  }
+
+  .newsletter {
+    height: 418px;
+  }
+
+  .bottom-form-txt {
+    font-size: 23px;
   }
 }
