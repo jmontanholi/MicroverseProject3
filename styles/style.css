@@ -105,6 +105,11 @@
   cursor: text;
 }
 
+.hd-2-links,
+.hd-3-links {
+  transition: color 0.5s;
+}
+
 .hd-2-links:hover,
 .hd-3-links:hover {
   color: red;
@@ -158,4 +163,34 @@
 
 .align-form {
   align-items: center;
+} 
+
+.bigger-subscribe {
+  transition-property: font-size;
+  transition-duration: 1s;
+}
+
+.bigger-subscribe:hover {
+  font-size: 19px;
+}
+
+.img-transition2,
+.img-transition {
+  transition: transform 1s;
+}
+
+.img-transition:hover {
+  transform: scale(1.05);
+}
+
+.img-transition2:hover {
+  transform: scale(1.3);
+}
+
+.logo-transition {
+  transition: all 3s;
+}
+
+.logo-transition:hover {
+  transform: scale(0.5) rotate(360deg);
 }
