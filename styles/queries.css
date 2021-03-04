@@ -104,6 +104,14 @@
   .bottom-form-txt {
     font-size: 15px;
   }
+
+  .column-div {
+    flex-direction: column;
+  }
+
+  .email-input {
+    margin-bottom: 10px;
+  }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
